@@ -1,10 +1,10 @@
 @media (max-width: 1199px){
     .about_person_area .person_img{
         max-width: none;
-        width: 40%;
+        width: 80%;
         height: 30%;
         display: block;
-        margin-left: 130px;
+        margin-left: 50px;
       
     }
     
